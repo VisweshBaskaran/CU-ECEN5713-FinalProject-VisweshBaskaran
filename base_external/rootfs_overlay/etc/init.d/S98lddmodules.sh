@@ -7,7 +7,7 @@ case "$1" in
         modprobe hello
         ;;
     stop)
-        echo "Stopping modules"
+        echo "Stopping modules "
         module_unload faulty
 	scull_unload
         rmmod hello
