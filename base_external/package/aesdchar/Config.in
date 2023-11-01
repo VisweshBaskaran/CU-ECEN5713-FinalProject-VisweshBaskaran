@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	This package includes the aesd-char device implementation. Helps to understand buildroot external trees and package builds.
