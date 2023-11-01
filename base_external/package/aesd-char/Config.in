@@ -1,4 +1,4 @@
-config BR2_PACKAGE_LDD
-	bool "ldd"
+config BR2_PACKAGE_AESD_CHAR
+	bool "aesd-char"
 	help
 	This package includes the aesd-char device implementation. Helps to understand buildroot external trees and package builds.

@@ -1,5 +1,5 @@
-config BR2_PACKAGE_AESD_CHAR
-	bool "aesdchar"
+config BR2_PACKAGE_LDD
+	bool "ldd"
 	help
 	This package includes the Misc-modules and Scull components in the rootfs of the image.
 	Helps to understand buildroot external trees and package builds.
