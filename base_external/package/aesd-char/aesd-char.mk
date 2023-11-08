@@ -4,7 +4,7 @@
 #
 ##############################################################
 
-AESD_CHAR_VERSION = '5f8f2926aa6252c16026ec7e490c72f53b501185'
+AESD_CHAR_VERSION = '6b24196eef150b2dbb75a97690af6b5d3ccf9f0b'
 AESD_CHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-VisweshBaskaran.git'
 AESD_CHAR_SITE_METHOD = git
 AESD_CHAR_GIT_SUBMODULES = YES
