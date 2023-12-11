@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_SMBUS2
+	bool "python-smbus2"
+	help
+	  This package includes python smbus2 source code.
+	  Helps to understand buildroot external trees and package builds.

@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_BME280
+	bool "python-bme280"
+	help
+	  This package includes python bme280 source code.
+	  Helps to understand buildroot external trees and package builds.
