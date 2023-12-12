@@ -1,4 +1,4 @@
-config BR2_PACKAGE_TEST
-	bool "test"
+config BR2_PACKAGE_MYTESTPY
+	bool "mytestpy"
 	help
 	This package includes test. Helps to understand buildroot external trees and package 	builds.
