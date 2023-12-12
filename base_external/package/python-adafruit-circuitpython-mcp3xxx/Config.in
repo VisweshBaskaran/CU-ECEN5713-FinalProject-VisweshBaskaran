@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_CIRCUITPYTHON_MCP3xxx
+	bool "python-adafruit-circuitpython-mcp3xxx"
+	help
+	  This package includes python Adafruit Circuitpython mcp source code.
+	  Helps to understand buildroot external trees and package builds.

@@ -1,2 +1,4 @@
 source "$BR2_EXTERNAL_project_base_PATH/package/python-smbus2/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/python-bme280/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/python-adafruit-blinka/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/python-adafruit-circuitpython-mcp3xxx/Config.in"

@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_ADAFRUIT_BLINKA
+	bool "python-adafruit-blinka"
+	help
+	  This package includes python Adafruit Blinka source code.
+	  Helps to understand buildroot external trees and package builds.
