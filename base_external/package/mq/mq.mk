@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-MQ_VERSION = 146233bfd8b6576d4dd563fa4d6a82877b735be0
+MQ_VERSION = 7ae8b37e4a341b9a4cb1b1790739e9c7a871101a
 MQ_SITE = 'https://github.com/VisweshBaskaran/CU-ECEN5713-FinalProject-Application-VisweshBaskaran.git'
 MQ_SITE_METHOD = git
 MQ_GIT_SUBMODULES = YES

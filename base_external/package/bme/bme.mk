@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-BME_VERSION = 47e9aeabd26e86f56dd70d2a0b6fd5e508ec5efc
+BME_VERSION = 7ae8b37e4a341b9a4cb1b1790739e9c7a871101a
 BME_SITE = 'https://github.com/VisweshBaskaran/CU-ECEN5713-FinalProject-Application-VisweshBaskaran.git'
 BME_SITE_METHOD = git
 BME_GIT_SUBMODULES = YES
