@@ -1,0 +1,5 @@
+config BR2_PACKAGE_MQ135
+	bool "MQ135"
+	help
+	  This package includes fingerprint sample python source code.
+	  Helps to understand buildroot external trees and package builds.
