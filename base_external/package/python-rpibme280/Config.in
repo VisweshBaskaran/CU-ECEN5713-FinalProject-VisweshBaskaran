@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PYTHON_RPIBME280
+	bool "python-rpibme280"
+	help
+	  This package includes RPIBME280 python package.
+	  Helps to understand buildroot external trees and package builds.

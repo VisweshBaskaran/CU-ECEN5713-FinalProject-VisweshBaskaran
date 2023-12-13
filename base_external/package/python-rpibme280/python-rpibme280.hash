@@ -1,0 +1,4 @@
+#md5, sha256 from https://pypi.org/pypi/packaging/json
+md5    094b0593331a3db421dd8b7b1812d026  RPi.bme280-0.2.4.tar.gz
+sha256    5b0e9309a2d518f9e120f1343ed4fc81ff69b196db748eabf96dd575a9f48c5d  RPi.bme280-0.2.4.tar.gz
+

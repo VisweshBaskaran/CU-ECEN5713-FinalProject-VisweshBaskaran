@@ -3,5 +3,6 @@ source "$BR2_EXTERNAL_project_base_PATH/package/python-bme280/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/python-adafruit-blinka/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/python-adafruit-circuitpython-mcp3xxx/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/bme/Config.in"
-source "$BR2_EXTERNAL_project_base_PATH/package/mq135/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/mq/Config.in"
 source "$BR2_EXTERNAL_project_base_PATH/package/python-rpigpio/Config.in"
+
